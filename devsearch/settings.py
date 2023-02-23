@@ -83,6 +83,7 @@ SIMPLE_JWT = {
 }
 
 
+
 # TESTING
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
