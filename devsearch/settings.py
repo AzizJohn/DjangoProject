@@ -82,6 +82,7 @@ SIMPLE_JWT = {
     'SLIDING_TOKEN_REFRESH_LIFETIME': timedelta(days=1),
 }
 
+# special commmands extra for merging projects
 
 
 # TESTING
